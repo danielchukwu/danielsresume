@@ -239,3 +239,8 @@ li {
 .work-experience {
    max-width: 1050px;
 }
+
+.socials {
+   color: var(--themeblue);
+   font-size: 20px;
+}
